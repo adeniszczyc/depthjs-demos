@@ -1,0 +1,15 @@
+* {
+	margin: 0;
+	padding: 0;
+	line-height: 0;
+}
+.track {
+	margin: auto;
+  	position: absolute;
+  	top: 0; left: 0; bottom: 0; right: 0;
+	width:200px;
+	height:200px;
+	border:1px solid #000000;
+	padding: 0;
+	line-height: 0;
+}
